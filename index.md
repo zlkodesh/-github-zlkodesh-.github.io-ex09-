@@ -6,7 +6,7 @@ layout: default
 # Comp110 Exercise09
 
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
-<img src="<custom-path>/static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
+<img src="<ex09>/static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
 
 ## Livestream Lecture Analysis
 
@@ -14,19 +14,19 @@ We were tasked with analyzing survery data from Comp110 students based on a sugg
 
 ## Chart 1: Overall Interest
 I investigated whether this proposition would have support based on the results of student responses. The three categories I used was the direct livestream question, as well as questions about difficulty and understanding. My first chart found that a majority of students answered in favor of an online lecture. 
-![bar graph]({{ site.baseurl }}/image.png)
+<img src="<ex09>/static/imgs/image.png" alt="Bar Graph "  width="500"/>
 
 
 This alone could be used to support my idea, but I dove in further. 
 
 ## Chart 2: Understanding 
 With my second chart, I looked to see if those who were having a harder time understanding content were the ones who wanted online lectures the most. It turns out that the answers were actually very evenly spread out among students who did and didn't understand content. 
-![scatter plot]({{ site.baseurl }}/image-1.png)
+<img src="<ex09>/static/imgs/image-1.png" alt="Scatter Plot. "  width="500"/>
 This shows that there is universal support for online lectures among those who feel they understand the class and those who don't. This means that the suggestion has the opportunity to create even more value than expected. It could end up helping everyone. 
 
 ## Chart 3: Difficulty
 Chart number 3 was a box plot that analyzed how people answered in reference to how hard they find Comp110. 
-![box plot]({{ site.baseurl }}/image-2.png)
+<img src="<ex09>/static/imgs/image-2.png" alt="Box Plot. "  width="500"/>
 The findings of this were that every single difficulty level had at least a median of 5 out of 7 in favor of online lectures. Those who found the class easiest were more spread out, and those who found the class the hardest were highly in favor. This goes to show that online lectures could provide a much needed supplement to those struggling. 
 
 ## Conclusion
